@@ -1,6 +1,6 @@
 link para download do github: https://git-scm.com/downloads
 
 git add . ==> adiciona as alterações no projeto
-git commit => atualiza os arquivos no local
-git push  ==> atualiza no github
-git pull origin main => busca a versao atual no github e atualiza o local
+git commit ==> atualiza os arquivos no local
+git push  origin main ==> atualiza no github
+git pull origin main ==> busca a versao atual no github e atualiza o local
